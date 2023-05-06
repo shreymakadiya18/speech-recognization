@@ -1,6 +1,4 @@
-portaudio19-dev 
-python-all-dev 
-python3-all-dev
+pipwin
 matplotlib==3.7.1
 numpy==1.23.5
 PyAudio==0.2.11
