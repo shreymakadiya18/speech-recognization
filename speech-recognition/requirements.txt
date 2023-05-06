@@ -5,3 +5,4 @@ Requests==2.29.0
 spacy==3.5.2
 streamlit==1.22.0
 textblob==0.17.1
+Cmake
